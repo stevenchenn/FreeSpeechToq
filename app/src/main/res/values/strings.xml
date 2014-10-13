@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Free Speech Toq</string>
+    <string name="action_settings">Settings</string>
+    <string name="opened">Card opened!</string>
+    <string name="error_uninstalling_deck_of_cards">Error while uninstalling</string>
+    <string name="already_uninstalled">Already uninstalled</string>
+    <string name="title_activity_color_picker">ColorPicker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_pick_color">PickColor</string>
+    <string name="fsm">A student protest which took place during the 1964–65 academic year on the campus of the University of California, Berkeley. Students insisted that the university administration lift the ban of on-campus political activities and acknowledge the students right to free speech and academic freedom.</string>
+</resources>
